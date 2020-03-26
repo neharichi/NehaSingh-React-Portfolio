@@ -18,7 +18,7 @@ This portfolio application is built using React bootstrap template. It has follo
 
 
 # Live Url: 
-[Live Application](https://neharichi.github.io/NehaSingh-Portfolio/) 
+[Live Application](https://blooming-ravine-56808.herokuapp.com/) 
 
 # Resume:
 [Neha Singh Resume](https://neharichi.github.io/NehaSingh-Portfolio/Neha%20Singh%20-%20Resume%20-%20Web%20Developer%20-%202020.pdf) 
